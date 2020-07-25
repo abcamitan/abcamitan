@@ -1,4 +1,4 @@
-### Hi there 👋,  I'm [Aries Camitan](https://www.github.com/abcamitan)
+### Mabuhay! 👋,  I'm [Aries Camitan](https://www.github.com/abcamitan)
 
 <!--
 **abcamitan/abcamitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Aries Camitan](AC.png)  
+  
+  
+  
+[![GitHub followers](https://img.shields.io/github/followers/abcamitan?style=social)](https://www.github.com/abcamitan)
+[![Linkedin Badge](https://img.shields.io/badge/-abcamitan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abcamitan)](https://www.linkedin.com/in/abcamitan/)
+[![Facebook Badge](https://img.shields.io/badge/-abcamitan-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://facebook.com/abcamitan)](https://facebook.com/abcamitan)
