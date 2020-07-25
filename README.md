@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Aries Camitan](AC.png)  
+![Aries Camitan](https://github.com/abcamitan/abcamitan/blob/master/AC.png?raw=true)  
   
   
   
