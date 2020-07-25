@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Aries Camitan](https://github.com/abcamitan/abcamitan/blob/master/AC.png?raw=true)  
-  
-  
-  
+![Aries Camitan](https://github.com/abcamitan/abcamitan/blob/master/AC.png?raw=true)
+
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/ariescamitan%40gmail.com)
+[![Write into my guest book](https://img.shields.io/badge/-___%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round)](https://github.com/abcamitan/abcamitan/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook)
+
 [![GitHub followers](https://img.shields.io/github/followers/abcamitan?style=social)](https://www.github.com/abcamitan)
 [![Linkedin Badge](https://img.shields.io/badge/-abcamitan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abcamitan)](https://www.linkedin.com/in/abcamitan/)
 [![Facebook Badge](https://img.shields.io/badge/-abcamitan-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://facebook.com/abcamitan)](https://facebook.com/abcamitan)
